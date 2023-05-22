@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import { IconLogo, IconLogoMobile, Menu, MenuItem, MenuItemLink, NavbarContainer, NavebarWrapper } from './NavBar.elements';
 import { ImEvil } from "react-icons/im";
 import { FaBars, FaTimes } from "react-icons/fa";

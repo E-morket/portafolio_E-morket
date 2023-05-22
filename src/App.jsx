@@ -1,4 +1,4 @@
-import React from 'react'
+//import React from 'react'
 import Portafolio from './components/portafolio/Portafolio'
 import Navbar from './components/portafolio/Navbar/Navbar'
 import './App.css'

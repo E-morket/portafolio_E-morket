@@ -28,7 +28,7 @@ import { Button } from '@mui/material';
 import React from 'react';
 
 
-const Portafolio = ({ childToParentData }) => {
+const Portafolio = ({childToParentData }) => {
 
 
     return (
